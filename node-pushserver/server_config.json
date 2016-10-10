@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": " mongodb://dbuser:1234@ds053156.mlab.com:53156/marcusbear0615",
+
+    "gcm": {
+        "apiKey": "AIzaSyDUXDYJjRBKr9vmomrvZJ35k6TWeS43MY4"
+    }
+}
